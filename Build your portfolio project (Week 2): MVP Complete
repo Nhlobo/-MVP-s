@@ -1,0 +1,45 @@
+Progress
+
+On a scale of 1 to 10, how would you rate the progress you’ve made this week?
+
+I would rate the progress at 8 out of 10.
+
+Provide an explanation of your progress assessment this week.
+
+This week has been productive in terms of integrating various components of the project and ensuring that the end-to-end workflow is functional. The primary tasks completed include setting up the backend, integrating APIs, and implementing the frontend user interface for key features. However, some aspects, such as thorough testing and final refinements, are still pending.
+
+What parts of your project are completed as planned?
+
+- Backend Development: Completed setting up the server, database connections, and API endpoints.
+- Frontend Development: Implemented the UI for the home page, profile page, job listing page, and reward page.
+- Real-time Updates: Successfully integrated WebSockets for real-time updates.
+- Basic User Authentication: Set up user registration and login functionality.
+
+## What aspects of your project are incomplete?
+
+- Comprehensive Testing: Need to conduct extensive unit and integration tests.
+- UI Enhancements: Some UI elements require additional polish and user feedback integration.
+- Documentation: Need to complete the comprehensive README.md and user manual.
+- Deployment: Final deployment to a live server is pending.
+
+Challenges
+
+Explain the most difficult technical challenge you encountered in this second week.
+
+The most difficult technical challenge encountered this week was integrating real-time updates using WebSockets. Initially, the plan was to use periodic polling to update job listings and user notifications. However, this approach proved to be inefficient and created significant performance issues. Transitioning to WebSockets required a deep dive into the implementation details and refactoring of both the backend and frontend codebases.
+
+One major hurdle was ensuring that the WebSocket connections were properly managed and that updates were pushed in real-time without causing excessive server load. This involved optimizing the backend to handle multiple simultaneous connections and ensuring that the frontend could gracefully handle real-time data streams. Debugging issues such as connection timeouts, data synchronization errors, and handling reconnections were time-consuming but ultimately rewarding once resolved.
+
+Describe the most difficult non-technical challenge you encountered in this second week.
+
+The most difficult non-technical challenge was managing time effectively. Balancing project development with other commitments was more challenging than anticipated. Despite having a detailed schedule, unexpected tasks and personal obligations created delays. This required reassessment of priorities and more disciplined time management.
+
+One approach that helped was breaking down tasks into smaller, manageable chunks and setting daily goals. Additionally, setting aside dedicated time slots for focused work sessions, free from distractions, significantly improved productivity. Regularly reviewing and adjusting the schedule ensured that critical tasks remained on track. Although challenging, these adjustments fostered better time management practices that will be beneficial in the long run.
+
+Screenshots
+
+Screenshot 1: 
+Home Page
+
+Screenshot 2: 
+Job Listing Page
