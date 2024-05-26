@@ -15,7 +15,7 @@ What parts of your project are completed as planned?
 - Real-time Updates: Successfully integrated WebSockets for real-time updates.
 - Basic User Authentication: Set up user registration and login functionality.
 
-## What aspects of your project are incomplete?
+What aspects of your project are incomplete?
 
 - Comprehensive Testing: Need to conduct extensive unit and integration tests.
 - UI Enhancements: Some UI elements require additional polish and user feedback integration.
